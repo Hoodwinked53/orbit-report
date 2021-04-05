@@ -8,12 +8,12 @@
 }
 
 table {
-  color: lightslategray;
+  color: black;
   border-radius: 6px;
   overflow: hidden;
   margin: 15px 0;
   min-width: 400px;
-  background: #dad8d8;
+  background: lightslategray;
 }
 
 .header-row {
